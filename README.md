@@ -2,7 +2,7 @@
 
 Mini-paper 5.1 for **Natural Language Processing (LIS060)** at Stockholm University.
 
-Compares the Multiclass Perceptron and Multinomial Logistic Regression (MLR) on morphological feature classification for Swedish, using data from the [UniMorph](https://unimorph.github.io/) database. The full write-up is in [`mini_paper_5_1.tex`](mini_paper_5_1.tex).
+Compares the Multiclass Perceptron and Multinomial Logistic Regression (MLR) on morphological feature classification for Swedish, using data from the [UniMorph](https://unimorph.github.io/) database. The full write-up is in [`NLP_Mini_paper___Comparative_evaluation_of_morphological_feature_classification_methods`](NLP_Mini_paper___Comparative_evaluation_of_morphological_feature_classification_methods.pdf).
 
 ---
 
@@ -20,11 +20,7 @@ The script expects two tab-separated UniMorph data files with three columns per 
 råda	råder	V;IND;PRS;ACT
 ```
 
-The Swedish training and test files (`swe-train`, `swe-test`) are available on the course server at:
-
-```
-triton.dsv.su.se:/home/dsv/robe/lis060/data/unimorph/
-```
+The Swedish training and test files (`swe-train`, `swe-test`) are available in the data folder.
 
 ---
 
